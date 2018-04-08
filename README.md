@@ -1,5 +1,8 @@
 StoreManagementSystem is a database management system developed to keep a track of the products present in the store for better retention as well to maintain profit & loss of products.
 
+Language Used:
+ORACLE
+
 Functionalities provided by the database system:
 
 •	Identify the products which are mostly bought by people of certain age or gender. This helps the store to have some great sales on those products for that group of people.
